@@ -26,4 +26,4 @@ src
 └── index.js            # ReactDOM entry point  
 🌍 Live Demo
 
-Check out the live demo: 
+Check out the live demo: https://blue-shirt-maaran.netlify.app
